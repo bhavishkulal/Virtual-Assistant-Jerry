@@ -60,7 +60,7 @@ text
 ### Installation
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/jerry
+git clone https://github.com/bhavishkulal/jerry
 cd jerry
 
 text
@@ -193,8 +193,8 @@ Built during my transition into advanced Python concepts and AI/ML fundamentals 
 
 ## 📬 Connect & Follow
 
-- **Blog**: [Bhavish Bytes - Hashnode](your-hashnode-url)
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Blog**: [Bhavish Bytes - Hashnode](bhavishbytes.hashnode.dev)
+- **LinkedIn**: (https://www.linkedin.com/in/bhavish-bellare)
 - **Learning Journey**: Follow my weekly updates on advanced Python and AI/ML
 
 ---
